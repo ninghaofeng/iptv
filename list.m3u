@@ -132,130 +132,106 @@ http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/ind
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江文体" tvg-name="黑龙江文体-1080p" tvg-logo="https://epg.112114.xyz/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体-1080p
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
-#EXTINF:-1,tvg-id="哈尔滨娱乐" tvg-name="哈尔滨娱乐-576p" group-title="黑龙江",哈尔滨娱乐-576p
+#EXTINF:-1,tvg-id="哈尔滨娱乐" tvg-name="哈尔滨娱乐-576p" tvg-logo="https://www.nbzhihui.com/pic/newspic/20160407152372367236.jpg" group-title="黑龙江",哈尔滨娱乐-576p
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225759/index.m3u8
-#EXTINF:-1,tvg-id="哈尔滨都市资讯" tvg-name="哈尔滨都市资讯-576p" group-title="黑龙江",哈尔滨都市资讯-576p
+#EXTINF:-1,tvg-id="哈尔滨都市资讯" tvg-name="哈尔滨都市资讯-576p" tvg-logo="https://www.nbzhihui.com/pic/newspic/20160407152372367236.jpg" group-title="黑龙江",哈尔滨都市资讯-576p
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
-#EXTINF:-1,tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合-576p" group-title="黑龙江",哈尔滨新闻综合-480p
+#EXTINF:-1,tvg-id="哈尔滨新闻综合" tvg-name="哈尔滨新闻综合-576p" tvg-logo="https://www.nbzhihui.com/pic/newspic/20160407152372367236.jpg" group-title="黑龙江",哈尔滨新闻综合-480p
 http://stream.hrbtv.net/xwzh/sd/live.m3u8
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文-1080p" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="凤凰",凤凰中文-1080p
 http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯-1080p" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰",凤凰资讯-1080p
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影-1080p
-https://live.v1.mk/aishang/chcdzdy
-#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影-1080p
-https://live.v1.mk/aishang/chcgqdy
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院-1080p
-https://live.v1.mk/aishang/chcjtyy
 #EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教-1080p" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="北京",北京科教-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视-1080p" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="北京",北京影视-1080p
 https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
-#EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K-4K" group-title="江苏",苏州4K-4K
+#EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K-4K" tvg-logo="https://gss0.baidu.com/-fo3dSag_xI4khGko9WTAnF6hhy/zhidao/pic/item/622762d0f703918f26fba912563d269758eec4c4.jpg" group-title="江苏",苏州4K-4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
-#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻-1080p" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="其他",上视新闻-1080p
+#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻-1080p" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="上海,上视新闻-1080p
 https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
-#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视-1080p" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="其他",东方影视-1080p
+#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视-1080p" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="上海",东方影视-1080p
 https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
-#EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上视外语.png" group-title="其他",上视外语 8M
+#EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语-1080p" tvg-logo="https://epg.112114.xyz/logo/上视外语.png" group-title="上海",上视外语-1080p
 https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
+#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文-1080p" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="上海",纪实人文-1080p
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1,tvg-name="欢笑剧场-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/592C8D88-DA83-41ED-8824-E2E2E54E396C.png" group-title="4K频道",欢笑剧场-4K
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-#EXTINF:-1,tvg-name="爱自然-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/24DFCA13-4C67-4FEE-A413-2288F1FA94F6.jpeg" group-title="4K频道",爱自然-4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,tvg-name="Clarity-4K", group-title="4K",Clarity-4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1,tvg-name="Loupe-4K" group-title="4K",Loupe-4K
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1,tvg-id="咪咕体育-4K" tvg-name="咪咕体育-4K" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K.png" group-title="4K频道",咪咕体育-4K
 http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
 #EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K-4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K频道",爱上4K-4K
 https://live.v1.mk/aishang/as4k
-#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="其他",4K超高清电影
+#EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="影视",4K超高清电影
 http://159.75.85.63:5681/sxg.php
-#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台-1080p" tvg-logo="https://epg.112114.xyz/logo/cetv1.png" group-title="其他",中国教育-1080p
+#EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台-1080p" tvg-logo="https://epg.112114.xyz/logo/cetv1.png" group-title="教育",中国教育-1080p
 https://live.v1.mk/aishang/cetv1hd
-#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台-720p" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="其他",中国教育2-720p
+#EXTINF:-1,tvg-id="中国教育2台" tvg-name="中国教育2台-720p" tvg-logo="https://epg.112114.xyz/logo/中国教育2台.png" group-title="教育",中国教育2-720p
 http://txycsbl.centv.cn/zb/0822cetv2.m3u8
-#EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台-720p" tvg-logo="https://epg.112114.xyz/logo/中国教育3台.png" group-title="其他",中国教育3-720p
+#EXTINF:-1,tvg-id="中国教育3台" tvg-name="中国教育3台-720p" tvg-logo="https://epg.112114.xyz/logo/中国教育3台.png" group-title="教育",中国教育3-720p
 http://txycsbl.centv.cn/zb/0822cetv3.m3u8
-#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台-1080p" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="其他",中国教育4-1080p
+#EXTINF:-1,tvg-id="中国教育4台" tvg-name="中国教育4台-1080p" tvg-logo="https://epg.112114.xyz/logo/中国教育4台.png" group-title="教育",中国教育4-1080p
 http://txycsbl.centv.cn/zb/0822cetv4.m3u8
-#EXTINF:-1,tvg-id="山东教育卫视" tvg-name="山东教育卫视-576p" tvg-logo="https://epg.112114.xyz/logo/山东教育卫视.png" group-title="卫视",山东教育卫视-576p
-https://live.v1.mk/aishang/sdjy
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实-1080p" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="其他",金鹰纪实-1080p
+#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实-1080p" tvg-logo="https://epg.112114.xyz/logo/金鹰纪实.png" group-title="纪录片",金鹰纪实-1080p
 https://live.v1.mk/aishang/jyjs
-#EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通-576p" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通-576p
-https://live.v1.mk/aishang/jykt
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿-1080p" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿-1080p
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿-1080p" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="少儿",卡酷少儿-1080p
 https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
-#EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通-576p" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通-576p
-https://live.v1.mk/aishang/jjkt
-#EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫-576p" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="其他",新动漫-576p
-https://live.v1.mk/aishang/xdm
-#EXTINF:-1 ,纪实人文-1080p
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-#EXTINF:-1 ,优漫卡通-576p
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通-1080p" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="其他",炫动卡通-1080p
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通-1080p" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="少儿",炫动卡通-1080p
 https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
-#EXTINF:-1 ,动作电影-1080p
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影-1080p
+https://live.v1.mk/aishang/chcdzdy
+#EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影-1080p
+https://live.v1.mk/aishang/chcgqdy
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院-1080p
+https://live.v1.mk/aishang/chcjtyy
+#EXTINF:-1 ,tvg-id="NewTV动作电影" tvg-name="NewTV动作电影-1080p" tvg-logo="https://epg.112114.xyz/logo/NewTV动作电影.png" group-title="影视",NewTV动作电影-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
-#EXTINF:-1 ,古装剧场-1080p
+#EXTINF:-1 ,tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场-1080p" tvg-logo="https://epg.112114.xyz/logo/NewTV古装剧场.png" group-title="影视",NewTV古装剧场-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
-#EXTINF:-1 ,惊悚悬疑-1080p
+#EXTINF:-1 ,tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑-1080p" tvg-logo="https://epg.112114.xyz/logo/惊悚悬疑.png" group-title="影视",NewTV惊悚悬疑-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
-#EXTINF:-1 ,金牌综艺-1080p
+#EXTINF:-1 ,tvg-id="NewTV金牌综艺" tvg-name="NewTV金牌综艺-1080p" tvg-logo="https://epg.112114.xyz/logo/金牌综艺.png" group-title="综艺",NewTV金牌综艺-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
-#EXTINF:-1 ,爱情喜剧-1080p
+#EXTINF:-1 ,tvg-id="NewTV爱情喜剧" tvg-name="NewTV爱情喜剧-1080p" tvg-logo="https://epg.112114.xyz/logo/爱情喜剧.png" group-title="影视",NewTV爱情喜剧-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
-#EXTINF:-1 ,精品大剧-1080p
+#EXTINF:-1 ,tvg-id="NewTV精品大剧" tvg-name="NewTV精品大剧-1080p" tvg-logo="https://epg.112114.xyz/logo/精品大剧.png" group-title="影视",NewTV精品大剧-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
-#EXTINF:-1 ,精品纪录-1080p
+#EXTINF:-1 ,tvg-id="NewTV精品纪录" tvg-name="NewTV精品纪录-1080p" tvg-logo="https://epg.112114.xyz/logo/精品纪录.png" group-title="纪录片",NewTV精品纪录-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,精品体育-1080p
+#EXTINF:-1 ,tvg-id="NewTV精品体育" tvg-name="NewTV精品体育-1080p" tvg-logo="https://epg.112114.xyz/logo/精品体育.png" group-title="体育",NewTV精品体育-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
-#EXTINF:-1 ,军旅剧场-1080p
+#EXTINF:-1 ,tvg-id="NewTV军旅剧场" tvg-name="NewTV军旅剧场-1080p" tvg-logo="https://epg.112114.xyz/logo/军旅剧场.png" group-title="影视",NewTV军旅剧场-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
-#EXTINF:-1 ,精彩搏击-1080p
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
-#EXTINF:-1 ,中国功夫-1080p
+#EXTINF:-1 ,tvg-id="NewTV中国功夫" tvg-name="NewTV中国功夫-1080p" tvg-logo="https://epg.112114.xyz/logo/中国功夫.png" group-title="影视",NewTV中国功夫-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
-#EXTINF:-1 ,农业致富-1080p
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
-#EXTINF:-1 ,潮妈辣婆-1080p
+#EXTINF:-1 ,tvg-id="NewTV潮妈辣婆" tvg-name="NewTV潮妈辣婆-1080p" tvg-logo="https://epg.112114.xyz/logo/潮妈辣婆.png" group-title="影视",NewTV潮妈辣婆-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
-#EXTINF:-1 ,超级综艺-1080p
+#EXTINF:-1 ,tvg-id="NewTV超级综艺" tvg-name="NewTV超级综艺-1080p" tvg-logo="https://epg.112114.xyz/logo/超级综艺.png" group-title="综艺",NewTV超级综艺-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
-#EXTINF:-1 ,超级体育-1080p
+#EXTINF:-1 ,tvg-id="NewTV超级体育" tvg-name="NewTV超级体育-1080p" tvg-logo="https://epg.112114.xyz/logo/超级体育.png" group-title="体育",NewTV超级体育-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
-#EXTINF:-1 ,超级电视剧-1080p
+#EXTINF:-1 ,tvg-id="NewTV超级电视剧" tvg-name="NewTV超级电视剧-1080p" tvg-logo="https://epg.112114.xyz/logo/超级电视剧.png" group-title="影视",NewTV超级电视剧-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
-#EXTINF:-1 ,超级电影-1080p
+#EXTINF:-1 ,tvg-id="NewTV超级电影" tvg-name="NewTV超级电影-1080p" tvg-logo="https://epg.112114.xyz/logo/超级电影.png" group-title="影视",NewTV超级电影-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-#EXTINF:-1 ,东北热剧-1080p
+#EXTINF:-1 ,tvg-id="NewTV东北热剧" tvg-name="NewTV东北热剧-1080p" tvg-logo="https://epg.112114.xyz/logo/东北热剧.png" group-title="影视",NewTV东北热剧-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
-#EXTINF:-1 ,欢乐剧场-1080p
+#EXTINF:-1 ,tvg-id=""NewTV欢乐剧场" tvg-name="NewTV欢乐剧场-1080p" tvg-logo="https://epg.112114.xyz/logo/欢乐剧场.png" group-title="影视",NewTV欢乐剧场-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
-#EXTINF:-1,tvg-id="华语影院" tvg-name="华语影院-1080p" tvg-logo="https://epg.112114.xyz/logo/华语影院.png" group-title="其他",华语影院-1080p
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="星光影院" tvg-name="星光影院-1080p" tvg-logo="https://epg.112114.xyz/logo/星光影院.png" group-title="其他",星光影院-1080p
-http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
-#EXTINF:-1,tvg-id="都市剧场" tvg-name="都市剧场-1080p" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="其他",都市剧场-1080p
-http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 ,NewTV海外剧场-1080p
+#EXTINF:-1 ,tvg-id=""NewTV海外剧场" tvg-name="NewTV海外剧场-1080p" tvg-logo="https://epg.112114.xyz/logo/海外剧场.png" group-title="影视",NewTV海外剧场-1080p
 http://39.134.65.68:80/wh7f454c46tw1780045664_-196684341/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1554599552&from=1&hms_devid=133
-#EXTINF:-1 ,黑莓电影-1080p
+#EXTINF:-1,tvg-id="华语影院" tvg-name="华语影院-1080p" tvg-logo="https://epg.112114.xyz/logo/bestv.png" group-title="影视",华语影院-1080p
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="星光影院" tvg-name="星光影院-1080p" tvg-logo="https://epg.112114.xyz/logo/bestv.png" group-title="影视",星光影院-1080p
+http://117.184.239.60/liveplay-kk.rtxapp.com/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1,tvg-id="City都市剧场" tvg-name="City都市剧场-1080p" tvg-logo="https://epg.112114.xyz/logo/都市剧场.png" group-title="影视",City都市剧场-1080p
+http://183.207.255.188/live/program/live/dsjchd/4000000/mnf.m3u8
+#EXTINF:-1,tvg-id="黑莓电影" tvg-name="黑莓电影-1080p" tvg-logo="https://epg.112114.xyz/logo/黑莓电影.png" group-title="影视",黑莓电影-1080p
 http://39.135.135.39:80/wh7f454c46tw1758952165_328384403/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8?icpid=88888888&RTS=1554599531&from=1&hms_devid=674
-#EXTINF:-1 ,黑莓动画-1080p
+#EXTINF:-1,tvg-id="黑莓动画" tvg-name="黑莓动画-1080p" tvg-logo="https://epg.112114.xyz/logo/黑莓动画.png" group-title="少儿",黑莓动画-1080p
 http://39.134.65.71:80/wh7f454c46tw1802519123_-1211386025/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1554599575&from=1&hms_devid=135
-#EXTINF:-1,tvg-id="歌华导视" tvg-name="歌华导视-1080p" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="其他",歌华导视-1080p
-https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN-1080p" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN-1080p
 https://live.v1.mk/aishang/cgtnhd
-#EXTINF:-1 ,CGTN记录-576p
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 #EXTINF:-1 ,tvg-id="翡翠台" tvg-name="翡翠台-1080p" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台-1080p
 https://cdn.hklive.tv/xxxx/81/index.m3u8
 #EXTINF:-1 ,tvg-id="J2" tvg-name="J2-1080p" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2-1080p
@@ -266,7 +242,33 @@ https://cdn.hklive.tv/xxxx/83/index.m3u8
 https://cdn.hklive.tv/xxxx/84/index.m3u8
 #EXTINF:-1 ,tvg-id="VIUTV 6" tvg-name="VIUTV 6-1080p" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",VIUTV 6-1080p
 https://cdn.hklive.tv/xxxx/96/index.m3u8
-#EXTINF:-1 ,tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics(1080p)" group-title="USA",Comedy Dynamics(1080p)
+#EXTINF:-1,tvg-name="爱自然-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/24DFCA13-4C67-4FEE-A413-2288F1FA94F6.jpeg" group-title="4K频道",爱自然-4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-name="Clarity-4K", tvg-logo="https://tm-image.tianyancha.com/tm/041dd344852b284a4104f8187db0066c.jpg" group-title="4K频道",Clarity-4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-name="Loupe-4K" tvg-logo="https://s1.ax1x.com/2022/04/14/L1JLlT.png" group-title="4K频道",Loupe-4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
+#EXTINF:-1,tvg-name="ULTRA NATURE TV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/ultra-nature.png" group-title="4K频道",ULTRA NATURE TV 4K
+http://185.236.229.31:9981/play/a01d
+#EXTINF:-1,tvg-name="Red Bull TV(1080p)" group-title="体育",Red Bull TV(1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1,tvg-name="MTV Biggest Pop(720p)" group-title="音乐",MTV Biggest Pop(720p)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1,tvg-name="MTV Block Party(720p)" group-title="音乐",MTV Block Party(720p)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1,tvg-name="MTV Spankin(720p)" group-title="音乐",MTV Spankin(720p)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1,tvg-name="MTV WMA(720p)" group-title="音乐",MTV WMA(720p)
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1,tvg-name="[US]Movie Sphere(1080p)"group-title="国际",[US]Movie Sphere(1080p)
+https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-name="[US]NASA TV Public(720p)" group-title="国际",[US]NASA TV Public(720p)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
+#EXTINF:-1,tvg-name="In Wild(720p)" group-title="国际",In Wild(720p)
+https://inwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-name="NBC News Now(1080p)" group-title="国际",NBC News Now(1080p)
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1,tvg-id="ComedyDynamics.us" tvg-name="[US]Comedy Dynamics(1080p)" group-title="国际",[US]Comedy Dynamics(1080p)
 https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
-#EXTINF:-1 ,tvg-id="ComedyChannel.uk" tvg-name="Comedy Channel(1080p)" group-title="UK",Comedy Channel(1080p)
+#EXTINF:-1,tvg-id="ComedyChannel.uk" tvg-name="[UK]Comedy Channel(1080p)" group-title="国际",[UK]Comedy Channel(1080p)
 https://uksono1-samsunguk.amagi.tv/playlist.m3u8
