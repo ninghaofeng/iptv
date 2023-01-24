@@ -40,8 +40,8 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17-1080p" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17-1080p
 https://live.v1.mk/aishang/cctv17hd
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K-4K25P" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K-4K25P
-http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
+https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 #EXTINF:-1,tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场-1080p" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场-1080p
 http://baidu.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐-1080p" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视",CCTV风云音乐-1080p
@@ -102,24 +102,24 @@ https://live.v1.mk/aishang/gzwshd
 https://live.v1.mk/aishang/hbwshd
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视-1080p" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png" group-title="卫视",海南卫视-1080p
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hainanSD/__op/default/__f//index.m3u8
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视-720p" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视-720p
-http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视-1080p" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视-1080p 
-http://101.33.26.81/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视-576p" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视-576p
-https://live.v1.mk/aishang/xzws
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视-1080p " tvg-logo="https://epg.112114.xyz/logo/甘肃卫视.png" group-title="卫视",甘肃卫视-1080p 
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/gswshd8m/8000000/mnf.m3u8
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视-1080p" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视-1080p 
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8?txSecret=58347f72aece2c25c685b8dc4da74652&txTime=95A66658
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视-1080p" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视-1080p
+http://39.134.65.149:80/PLTV/88888888/224/3221225974/1653148920-1-1652757727.m3u8
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视-720p" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视-720p
+http://stream.qhbtv.com/qhws/sd/live.m3u8
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视-720p " tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视-720p 
+http://wabc.ml/sxg.php?id=sxws_4000
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视-576p" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视-576p
+https://live.v1.mk/aishang/xzws
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视-576p" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视-576p
 https://live.v1.mk/aishang/xmws
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视-576p" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视-576p
-https://live.v1.mk/aishang/nmws
+http://wabc.ml/sxg.php?id=nmgws_4000
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视-720p" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视-720p
 http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd
-#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视-1080p" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视-1080p
-http://39.134.65.149:80/PLTV/88888888/224/3221225974/1653148920-1-1652757727.m3u8
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视-720p" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视-720p
 http://livepgc.cmc.ningxiahuangheyun.com/pgc/deb40eb3174c0c2d62c30810f0087d64.m3u8?txSecret=27098501b42eae2199df753a323534df&txTime=6326BD7B
 #EXTINF:-1,tvg-id="黑龙江影视" tvg-name="黑龙江影视-1080p" tvg-logo="https://epg.112114.xyz/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视-1080p
@@ -142,26 +142,36 @@ http://stream.hrbtv.net/xwzh/sd/live.m3u8
 http://yuniptvunql.chinayungu.cn:65530/live/fhzw/index.m3u8
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯-1080p" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="凤凰",凤凰资讯-1080p
 http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻-1080p" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png" group-title="香港",无线新闻-1080p
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1,tvg-id="有线新闻台" tvg-name="有线新闻台-720p" tvg-logo="https://epg.112114.xyz/logo/有线新闻台.png" group-title="香港",有线新闻-720p
-http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="其他",CHC动作电影-1080p
 https://live.v1.mk/aishang/chcdzdy
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="其他",CHC高清电影-1080p
 https://live.v1.mk/aishang/chcgqdy
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院-1080p
 https://live.v1.mk/aishang/chcjtyy
-#EXTINF:-1,tvg-name="BRTV纪实科教-1080p" group-title="其他",BRTV纪实科教-1080p
+#EXTINF:-1,tvg-id="北京科教" tvg-name="北京科教-1080p" tvg-logo="https://epg.112114.xyz/logo/北京科教.png" group-title="北京",北京科教-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1,tvg-id="北京影视" tvg-name="北京影视-1080p" tvg-logo="https://epg.112114.xyz/logo/北京影视.png" group-title="北京",北京影视-1080p
+https://live.v1.mk/api/ghyx.php?id=BTV4HD_6000
+#EXTINF:-1,tvg-id="苏州4K" tvg-name="苏州4K-4K" group-title="江苏",苏州4K-4K
+http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd
+#EXTINF:-1,tvg-id="上视新闻" tvg-name="上视新闻-1080p" tvg-logo="https://epg.112114.xyz/logo/上视新闻.png" group-title="其他",上视新闻-1080p
+https://live.v1.mk/api/bestv.php?id=xwzhhd8m/8000000
+#EXTINF:-1,tvg-id="上视东方影视" tvg-name="上视东方影视-1080p" tvg-logo="https://epg.112114.xyz/logo/上视东方影视.png" group-title="其他",东方影视-1080p
+https://live.v1.mk/api/bestv.php?id=dfyshd8m/8000000
+#EXTINF:-1,tvg-id="上视外语" tvg-name="上视外语" tvg-logo="https://epg.112114.xyz/logo/上视外语.png" group-title="其他",上视外语 8M
+https://live.v1.mk/api/bestv.php?id=icshd8m/8000000
 #EXTINF:-1,tvg-name="欢笑剧场-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/592C8D88-DA83-41ED-8824-E2E2E54E396C.png" group-title="4K频道",欢笑剧场-4K
 http://baidu.live.cqccn.com/__cl/cg:live/__c/hxjc_4K/__op/default/__f//index.m3u8
-#EXTINF:-1,tvg-name="4K影视-4K" tvg-logo="http://www.chinatft.org/static/admin/kindeditor/attached/image/20181012/20181012104156_15574.jpg" group-title="4K频道",4K影视-4K
-http://159.75.85.63:5828/4kys.php
-#EXTINF:-1 ,tvg-name="爱自然-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/24DFCA13-4C67-4FEE-A413-2288F1FA94F6.jpeg" group-title="4K频道",爱自然-4K
+#EXTINF:-1,tvg-name="爱自然-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/24DFCA13-4C67-4FEE-A413-2288F1FA94F6.jpeg" group-title="4K频道",爱自然-4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-name="Clarity-4K", group-title="4K",Clarity-4K
+https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1,tvg-name="Loupe-4K" group-title="4K",Loupe-4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1,tvg-id="咪咕体育-4K" tvg-name="咪咕体育-4K" tvg-logo="https://epg.112114.xyz/logo/咪咕体育4K.png" group-title="4K频道",咪咕体育-4K
 http://117.136.156.66:80/000000001000/3000000010000005180/index.m3u8
+#EXTINF:-1,tvg-id="爱上4K" tvg-name="爱上4K-4K" tvg-logo="https://epg.112114.xyz/logo/爱上4K.png" group-title="4K频道",爱上4K-4K
+https://live.v1.mk/aishang/as4k
 #EXTINF:-1,tvg-id="4K超高清电影" tvg-name="4K超高清电影" tvg-logo="https://epg.112114.xyz/logo/4K电影.png" group-title="其他",4K超高清电影
 http://159.75.85.63:5681/sxg.php
 #EXTINF:-1,tvg-id="中国教育1台" tvg-name="中国教育1台-1080p" tvg-logo="https://epg.112114.xyz/logo/cetv1.png" group-title="其他",中国教育-1080p
@@ -178,8 +188,8 @@ https://live.v1.mk/aishang/sdjy
 https://live.v1.mk/aishang/jyjs
 #EXTINF:-1,tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通-576p" tvg-logo="https://epg.112114.xyz/logo/湖南金鹰卡通.png" group-title="其他",金鹰卡通-576p
 https://live.v1.mk/aishang/jykt
-#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿-576p" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿-576p
-https://live.v1.mk/aishang/kkse
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿-1080p" tvg-logo="https://epg.112114.xyz/logo/卡酷少儿.png" group-title="其他",卡酷少儿-1080p
+https://live.v1.mk/api/bestv.php?id=kkse8m/8000000
 #EXTINF:-1,tvg-id="嘉佳卡通" tvg-name="嘉佳卡通-576p" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png" group-title="其他",嘉佳卡通-576p
 https://live.v1.mk/aishang/jjkt
 #EXTINF:-1,tvg-id="新动漫" tvg-name="新动漫-576p" tvg-logo="https://epg.112114.xyz/logo/新动漫.png" group-title="其他",新动漫-576p
@@ -188,8 +198,8 @@ https://live.v1.mk/aishang/xdm
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1 ,优漫卡通-576p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
-#EXTINF:-1 ,哈哈炫动-576p
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:-1,tvg-id="炫动卡通" tvg-name="炫动卡通-1080p" tvg-logo="https://epg.112114.xyz/logo/炫动卡通.png" group-title="其他",炫动卡通-1080p
+https://live.v1.mk/api/bestv.php?id=hhxd8m/8000000
 #EXTINF:-1 ,动作电影-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 ,古装剧场-1080p
@@ -240,7 +250,23 @@ http://39.134.65.68:80/wh7f454c46tw1780045664_-196684341/ottrrs.hl.chinamobile.c
 http://39.135.135.39:80/wh7f454c46tw1758952165_328384403/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8?icpid=88888888&RTS=1554599531&from=1&hms_devid=674
 #EXTINF:-1 ,黑莓动画-1080p
 http://39.134.65.71:80/wh7f454c46tw1802519123_-1211386025/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1554599575&from=1&hms_devid=135
-#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN-1080p
+#EXTINF:-1,tvg-id="歌华导视" tvg-name="歌华导视-1080p" tvg-logo="https://epg.112114.xyz/logo/歌华导视.png" group-title="其他",歌华导视-1080p
+https://live.v1.mk/api/ghyx.php?id=GeHuadaoshiHD_6000
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN-1080p" tvg-logo="https://epg.112114.xyz/logo/CGTN.png" group-title="央视",CGTN-1080p
 https://live.v1.mk/aishang/cgtnhd
 #EXTINF:-1 ,CGTN记录-576p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
+#EXTINF:-1 ,tvg-id="翡翠台" tvg-name="翡翠台-1080p" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台-1080p
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 ,tvg-id="J2" tvg-name="J2-1080p" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2-1080p
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 ,tvg-id="无线新闻台" tvg-name="无线新闻台-1080p" tvg-logo="https://epg.112114.xyz/logo/无线新闻台.png" group-title="港澳台",无线新闻台-1080p
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 ,tvg-id="明珠台" tvg-name="明珠台-1080p" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台-1080p
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 ,tvg-id="VIUTV 6" tvg-name="VIUTV 6-1080p" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",VIUTV 6-1080p
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 ,tvg-id="ComedyDynamics.us" tvg-name="Comedy Dynamics(1080p)" group-title="USA",Comedy Dynamics(1080p)
+https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
+#EXTINF:-1 ,tvg-id="ComedyChannel.uk" tvg-name="Comedy Channel(1080p)" group-title="UK",Comedy Channel(1080p)
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
