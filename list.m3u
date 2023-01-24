@@ -266,8 +266,28 @@ https://moviesphere-samsung-samsungus.amagi.tv/playlist.m3u8
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?zshijd
 #EXTINF:-1,tvg-name="In Wild(720p)" group-title="国际",In Wild(720p)
 https://inwild-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1,tvg-name="NBC News Now(1080p)" group-title="国际",NBC News Now(1080p)
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+#EXTINF:-1,tvg-id="CaliforniaMusicChannel.us" tvg-name="[US]California Music Channel(1080p)" group-title="音乐",[US]California Music Channel(1080p)
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-id="CBNNews.us" tvg-name="[US]CBN News National(1080p)" group-title="国际",[US]CBN News National(1080p)
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
+#EXTINF:-1,tvg-name="NTD TV UK(720p)" group-title="国际",NTD TV UK(720p)
+https://ntd02.akamaized.net/NTD-UK/index.m3u8
+#EXTINF:-1,tvg-name="NTD TV West(720p)"group-title="国际",NTD TV West(720p)
+https://ntd02.akamaized.net/NTD-West/index.m3u8
+#EXTINF:-1,tvg-id="DoveChannel.us" tvg-name="[US]Dove Channel (1080p)" group-title="国际",[US]Dove Channel(1080p)
+https://dovenow-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-name="[US]MyTime movie network (1080p)" group-title="国际",[US]MyTime movie network(1080p)
+https://mytime-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-name="[US]Xplore (1080p)" group-title="国际",[US]Xplore(1080p)
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-id="RedboxSpotlight.us" tvg-name="[US]Spotlight (1080p)" group-title="国际",[US]Spotlight(1080p)
+https://spotlight-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-id="IONPlusEast.us" tvg-name="[US]Ion Plus(1080p)" group-title="国际",[US]Ion Plus(1080p)
+https://ion-ion-plus-1.vizio.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,tvg-id="InsightTV.nl" tvg-name="[US]Insight TV(1080p)" group-title="国际",[US]Insight TV(1080p)
+https://insighttv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,tvg-id="BratTV.us" tvg-name="[US]Brat TV(1080p)" group-title="国际",[US]Brat TV(1080p)
+https://brat-samsung-us.amagi.tv/playlist.m3u8
 #EXTINF:-1,tvg-id="ComedyDynamics.us" tvg-name="[US]Comedy Dynamics(1080p)" group-title="国际",[US]Comedy Dynamics(1080p)
 https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
 #EXTINF:-1,tvg-id="ComedyChannel.uk" tvg-name="[UK]Comedy Channel(1080p)" group-title="国际",[UK]Comedy Channel(1080p)
