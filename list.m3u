@@ -40,8 +40,10 @@ http://baidu.live.cqccn.com/__cl/cg:live/__c/CCTV16_4K/__op/default/__f//index.m
 http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17-1080p" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png" group-title="央视",CCTV-17-1080p
 https://live.v1.mk/aishang/cctv17hd
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K-4K25P" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K-4K25P
 https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K-4K50P" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="央视",CCTV-4K-4K50P
+http://159.75.85.63:5681/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1,tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场-1080p" tvg-logo="https://epg.112114.xyz/logo/风云剧场.png" group-title="央视",CCTV风云剧场-1080p
 http://baidu.live.cqccn.com/__cl/cg:live/__c/fyjcHD/__op/default/__f//index.m3u8
 #EXTINF:-1,tvg-id="CCTV风云音乐" tvg-name="CCTV风云音乐-1080p" tvg-logo="https://epg.112114.xyz/logo/风云音乐.png" group-title="央视",CCTV风云音乐-1080p
