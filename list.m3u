@@ -104,22 +104,22 @@ https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 https://live.goodiptv.club/api/bestv.php?id=gswshd8m/8000000
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视-1080p" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png" group-title="卫视",贵州卫视-1080p
 http://39.134.65.149:80/PLTV/88888888/224/3221225974/1653148920-1-1652757727.m3u8
-#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视-720p" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视-720p
-http://stream.qhbtv.com/qhws/sd/live.m3u8
-#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视-576p " tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视-576p 
-https://live.goodiptv.club/aishang/sxws
-#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视-576p" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视-576p
-https://live.goodiptv.club/aishang/xzws
-#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视-576p" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视-576p
-https://live.goodiptv.club/aishang/xmws
-#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视-576p" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视-576p
-https://live.goodiptv.club/aishang/nmws
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视-1080p" tvg-logo="https://epg.112114.xyz/logo/青海卫视.png" group-title="卫视",青海卫视-1080p
+https://epg.pw/stream/d1264c425777da0b135bb81e1c4e9d42c3db613cc7136c994ba1420f699dd15c.m3u8
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视-1080p " tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png" group-title="卫视",陕西卫视-1080p
+https://epg.pw/stream/44734bd9ab485cb663566c8992f00732db80a67eb7ea336823770eb6567fcec9.ctv
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视-1080p" tvg-logo="https://epg.112114.xyz/logo/西藏卫视.png" group-title="卫视",西藏卫视-1080p
+https://epg.pw/stream/c2d1bf38b737d945f2e875dce0fdb171b3ee35575b92b45a52309b6a44b17c1f.ctv
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视-1080p" tvg-logo="https://epg.112114.xyz/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视-1080p
+https://epg.pw/stream/0ceeab1b3b81e781aab71ab975044cf240a80ee2bb2731d0724cef074dfdfc54.m3u8
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视-1080p" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视-1080p
+https://epg.pw/stream/3b07350b82c88eb7e4fd6c8d83c3ad5a6ace9fbce6e6123219a8f180048742b1.m3u8
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视-720p" tvg-logo="https://epg.112114.xyz/logo/山西卫视.png" group-title="卫视",山西卫视-720p
-http://player.521fanli.cn/1691/0/tide/tidem3u8.php?id=shanxihd
+https://epg.pw/stream/552820d2c4fdbedcd3b9b6cc194d61de2f7b1306bfb57ff25c37eb3eacdae67d.ctv
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视-576p" tvg-logo="https://epg.112114.xyz/logo/宁夏卫视.png" group-title="卫视",宁夏卫视-576p
 https://live.goodiptv.club/api/cqyx.php?id=ningxia
-#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视-576p" tvg-logo="https://epg.112114.xyz/logo/新疆卫视.png" group-title="卫视",新疆卫视-576p 
-https://live.goodiptv.club/aishang/xjws
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视-576p" tvg-logo="https://epg.112114.xyz/logo/厦门卫视.png" group-title="卫视",厦门卫视-576p
+https://live.goodiptv.club/aishang/xmws
 #EXTINF:-1,tvg-id="黑龙江影视" tvg-name="黑龙江影视-1080p" tvg-logo="https://epg.112114.xyz/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视-1080p
 http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1,tvg-id="黑龙江都市" tvg-name="黑龙江都市-1080p" tvg-logo="https://epg.112114.xyz/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市-1080p
@@ -177,9 +177,11 @@ https://live.goodiptv.club/api/bestv.php?id=qcdm8m/8000000
 #EXTINF:-1,tvg-id="宝宝动画" tvg-name="宝宝动画-1080p" tvg-logo="https://epg.112114.xyz/logo/宝宝动画.png" group-title="少儿",宝宝动画-1080p
 https://live.goodiptv.club/api/bestv.php?id=bbdh8m/8000000
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC动作电影.png" group-title="影视",CHC动作电影-1080p
-https://live.goodiptv.club/aishang/chcdzdy
+https://epg.pw/stream/625c7d4762858b0227edf8eeef5b0829acab3dc62df4048ae4504fa09b60e276.m3u8
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC家庭影院.png" group-title="其他",CHC家庭影院-1080p
+https://epg.pw/stream/f8f1a17497b7e7ed9a51c94ed78a3256ecce342d13646fea88c9154990b45cbb.m3u8
 #EXTINF:-1,tvg-id="CHC高清电影" tvg-name="CHC高清电影-1080p" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png" group-title="影视",CHC高清电影-1080p
-https://live.goodiptv.club/aishang/chcgqdy
+https://epg.pw/stream/21fa14e9fef828bf41586ef9d4f1483d46331ea91f26e94c95ae9cdf93c71696.m3u8
 #EXTINF:-1 ,tvg-id="NewTV动作电影" tvg-name="NewTV动作电影-1080p" tvg-logo="https://epg.112114.xyz/logo/NewTV动作电影.png" group-title="影视",NewTV动作电影-1080p
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 #EXTINF:-1 ,tvg-id="NewTV古装剧场" tvg-name="NewTV古装剧场-1080p" tvg-logo="https://epg.112114.xyz/logo/NewTV古装剧场.png" group-title="影视",NewTV古装剧场-1080p
@@ -231,17 +233,11 @@ https://live.goodiptv.club/api/bestv.php?id=jbtyhd8m/8000000
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉-1080p" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="体育",新视觉-1080p
 https://live.goodiptv.club/api/bestv.php?id=xsjhd8m/8000000
 #EXTINF:-1 ,tvg-id="翡翠台" tvg-name="翡翠台-1080p" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠台-1080p
-https://cdn.hklive.tv/xxxx/81/index.m3u8
+https://epg.pw/stream/32e4ae9af65495464449144f8ac46bb0c384b67e3252e757547402d54fb08dc1.m3u8
 #EXTINF:-1 ,tvg-id="翡翠华丽台" tvg-name="翡翠华丽台-720p" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="港澳台",翡翠华丽台-720p
 http://23.237.10.66:16410
 #EXTINF:-1 ,tvg-id="J2" tvg-name="J2-1080p" tvg-logo="https://epg.112114.xyz/logo/J2.png" group-title="港澳台",J2-1080p
-https://cdn.hklive.tv/xxxx/82/index.m3u8
-#EXTINF:-1 ,tvg-id="无线新闻台" tvg-name="无线新闻台-1080p" tvg-logo="https://epg.112114.xyz/logo/无线新闻台.png" group-title="港澳台",无线新闻台-1080p
-https://cdn.hklive.tv/xxxx/83/index.m3u8
-#EXTINF:-1 ,tvg-id="明珠台" tvg-name="明珠台-1080p" tvg-logo="https://epg.112114.xyz/logo/明珠台.png" group-title="港澳台",明珠台-1080p
-https://cdn.hklive.tv/xxxx/84/index.m3u8
-#EXTINF:-1 ,tvg-id="VIUTV 6" tvg-name="VIUTV 6-1080p" tvg-logo="https://epg.112114.xyz/logo/VIUTV.png" group-title="港澳台",VIUTV 6-1080p
-https://cdn.hklive.tv/xxxx/96/index.m3u8
+https://epg.pw/stream/222d0fb1ed17d09347d6abfc0c647e707dd628ef99d0f99d3a7b4d3816b2bc5b.m3u8
 #EXTINF:-1,tvg-name="Love Nrture-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/24DFCA13-4C67-4FEE-A413-2288F1FA94F6.jpeg" group-title="4K频道",Love Nrture-4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1,tvg-name="Clarity-4K", tvg-logo="https://tm-image.tianyancha.com/tm/041dd344852b284a4104f8187db0066c.jpg" group-title="4K频道",Clarity-4K
